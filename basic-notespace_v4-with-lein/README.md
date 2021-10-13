@@ -2,6 +2,3 @@
 
 An example of using Notespace v4 in a Leiningen project
 
-## Usage
-
-FIXME
