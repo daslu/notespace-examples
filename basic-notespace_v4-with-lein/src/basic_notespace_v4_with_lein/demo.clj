@@ -12,4 +12,6 @@
 (comment
   (notespace/restart!))
 
+;; Browse localhost:1903 to see the browser view.
+
 (+ 1 2)
