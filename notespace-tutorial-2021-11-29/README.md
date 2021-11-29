@@ -1,6 +1,8 @@
 # notespace-2021-11-18 workshop
 
-An example Notespace v4 project
+An example Notespace v4 project.
+
+See [the video](https://youtu.be/uICA2SDa-ws) based on this tutorial.
 
 ## Usage
 
